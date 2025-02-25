@@ -1,11 +1,17 @@
-## Hi there 👋
+> 
+
+🎓 CS Padawan with a love for cybersecurity.</br>
+📜 Currently on a questline through CompTIA+ certificates, as well as CCNA, eJPT and others.</br>
+🐧 Using Kali Linux and VMs in a home lab.</br>
+🌙 Big fan of all-night forensic analysis sessions.</br>
+🐍 Studying and constantly creating new projects in Python.</br>
 
 <!--
 **raevnx/raevnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🛡️ I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
